@@ -1,0 +1,6 @@
+env.txt
+*.xlsx
+*.log
+google_creds.json
+__pycache__/
+*.pyc
